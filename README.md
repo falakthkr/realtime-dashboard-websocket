@@ -290,7 +290,7 @@ For issues and questions, please open an issue on GitHub.
 ⭐ **Star this repository if you found it helpful!** 
 
 ---
----
+
 **Built by Falak Thackar**
 
 I’m a full stack developer who builds clean, working products using React, Node.js, MongoDB, and React Native.  
